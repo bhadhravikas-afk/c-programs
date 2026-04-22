@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+   int j=6;
+   if(j%2==0)
+   {
+       printf("even");
+   }
+   else
+   {
+       printf("odd");
+   }
+   
+   
+}
